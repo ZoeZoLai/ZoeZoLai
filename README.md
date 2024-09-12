@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ZoeZoLai
+- 👀 I’m interested in creating useful solutions to get things done.
+- 🌱 I’m currently working as a consulant for PayGlobal and learning Applied computing in Lincoln University.
+- 💞️ I’m looking to collaborate on creating interesting tools to make our work easier!
